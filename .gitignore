@@ -1,0 +1,34 @@
+.VSCodeCounter/*
+*.xlsx
+*.[Ll]og
+release*
+.vs/
+
+# ignoring doc works for now
+/docs/_site
+
+# Build results
+[thycotic]/[Bb]in/
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Ww][Ii][Nn]32/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+//
+src/bin/Thycotic.SecretServer.dll
+src/bin/Thycotic.SecretServer.deps.json
+src/bin/Thycotic.SecretServer.xml
+src/bin/Thycotic.SecretServer.pdb
+src/bin/*.dll
+
+# in case you use Carter's WikiLens
+Daily/*

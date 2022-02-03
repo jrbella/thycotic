@@ -1,0 +1,21 @@
+title: Thycotic.SecretServer Module
+lang: en
+description: Thycotic Secret Server PowerShell Module
+
+remote_theme: rundocs/jekyll-rtd-theme
+
+readme_index:
+  with_frontmatter: true
+
+google:
+  gtag: "UA-189117162-1"
+
+exclude:
+  - Makefile
+  - Gemfile
+  - Gemfile.lock
+
+plugins:
+  - jemoji
+  - jekyll-avatar
+  - jekyll-mentions
